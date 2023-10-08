@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<body>
+<h1>
+My name is Blake Russell
+</h1>
+<p>
+I am a networking studnet I enjoy technology and completing tasks.
+I enjoy hanging out with my Girlfriend and friends in my free time. 
+I also really enjoy fitness
+</P>
+</body>
+<title> 
+Hello I am Blake Russell 
+</title>
+<style>
+body { 
+background-color:27BFC7;
+}
+h1{
+color:1D1234;
+}
+p{
+color:F1EDCF;
+}
+</style>
+</head>
+</html>
